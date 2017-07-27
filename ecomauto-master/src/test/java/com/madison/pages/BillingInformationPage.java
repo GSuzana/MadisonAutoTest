@@ -42,8 +42,7 @@ public class BillingInformationPage extends PageObject {
     @FindBy(css = "#billing-address-select")
     private WebElement addressDropdown;
 
- //   @FindBy(css = "#advice-validate-email-billing:email")
-    @FindBy(css = "#billing:email")
+    @FindBy(css = "[id=\"advice-validate-email-billing:email\"]")
     private WebElement checkEmail;
 
 

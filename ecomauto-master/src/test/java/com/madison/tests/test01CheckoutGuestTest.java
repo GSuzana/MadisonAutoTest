@@ -57,9 +57,10 @@ public class test01CheckoutGuestTest {
         checkoutSteps.billingInformationCheckout(testData.getFirstName(), testData.getLastName(), testData.getEmailAddress(),
                 testData.getAddress(), testData.getCity(), testData.getPostalCode(), testData.getCountry(), testData.getTelephone());
 
+        checkoutSteps.clickOnContinue();
+
         checkoutSteppp.checkEmail("Please enter a valid email address. For example johndoe@domain.com.");
 
-        checkoutSteps.clickOnContinue();
 
     }
 }

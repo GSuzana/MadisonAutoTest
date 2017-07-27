@@ -10,7 +10,7 @@ public class SetTestData {
 
         testData.setFirstName("test");
         testData.setLastName("test");
-        testData.setEmailAddress("test@gmail.com");
+        testData.setEmailAddress("tes");
         testData.setAddress("test");
         testData.setCity("test");
         testData.setPostalCode("123456");

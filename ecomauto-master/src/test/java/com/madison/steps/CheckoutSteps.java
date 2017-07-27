@@ -101,12 +101,12 @@ public class CheckoutSteps {
         selectCountry(country);
         inputTelephone(telephone);
     }
+    @Step
+    public void clickOnContinue(){billingInformationPage.clickOnContinue();}
 
     @Step
     public void checkEmail(String expectedMessage){
         String email = billingInformationPage.checkEmail();
-        Assert.assertTrue("The email is invalid!", expectedMessage.contentEquals(email));
+        Assert.assertFalse("The email is invalid!", expectedMessage.contentEquals(email));
     }
-    @Step
-    public void clickOnContinue(){billingInformationPage.clickOnContinue();}
 }
