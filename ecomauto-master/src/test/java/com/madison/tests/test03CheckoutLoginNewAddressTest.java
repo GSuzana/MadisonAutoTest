@@ -1,5 +1,7 @@
 package com.madison.tests;
 
+import com.madison.pages.SetTestData;
+import com.madison.pages.TestData;
 import com.madison.steps.CheckoutSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
@@ -41,8 +43,12 @@ public class test03CheckoutLoginNewAddressTest {
     @Steps
     public CheckoutSteps checkoutSteps;
 
+    private SetTestData init = new SetTestData();
+
+
     @Test
     public void checkoutLoginNewAddress(){
+        TestData testData =  init.initTestData();
 
         checkoutSteps.navigateTo("http://qa2.madison.com/");
 
@@ -60,8 +66,8 @@ public class test03CheckoutLoginNewAddressTest {
 
         checkoutSteps.selectAddress(selectAddress);
 
-//        checkoutSteps.billingInformationCheckout(firstName, lastName, emailAddress,
-//                address, city, postalCode, country, telephone);
+        checkoutSteps.billingInformationCheckoutLogin(testData.getFirstName(), testData.getLastName(),
+                testData.getAddress(), testData.getCity(), testData.getPostalCode(), testData.getCountry(), testData.getTelephone());
         checkoutSteps.clickOnContinue();
     }
 }

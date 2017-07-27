@@ -1,10 +1,13 @@
 package com.madison.steps;
 
 import com.madison.pages.*;
+import net.serenitybdd.core.Serenity;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.annotations.StepGroup;
 import org.junit.Assert;
 import org.yecht.Data;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by razvansidra on 7/26/2017.
@@ -56,13 +59,11 @@ public class CheckoutSteps {
     public void selectAddress(String word){billingInformationPage.selectAddress(word);}
 
     @Step
-    public void inputFirstName(String word){billingInformationPage.inputFirstName();}
+    public void inputFirstName(String word){billingInformationPage.inputFirstName(word);}
     @Step
     public void inputLastName(String word){billingInformationPage.inputLastName(word);}
     @Step
-    public void inputEmailAddress(String word){
-        billingInformationPage.inputEmailAddress(word);
-    }
+    public void inputEmailAddress(String word){billingInformationPage.inputEmailAddress(word);}
     @Step
     public void inputAddress(String word){billingInformationPage.inputAddress(word);}
     @Step
@@ -75,24 +76,37 @@ public class CheckoutSteps {
     public void inputTelephone(String word){billingInformationPage.inputTelephone(word);}
 
     @StepGroup
-    public void billingInformationCheckout(){//String firstname, String lastname, String emailaddress,
-                                          //String address, String city, String postalcode,
-                                         // String country, String telephone){
-        billingInformationPage.inputFirstName();
-//        billingInformationPage.inputLastName(lastname);
- //       billingInformationPage.inputEmailAddress(emailaddress);
-//        inputAddress(address);
-//        inputCity(city);
-//        inputPostalCode(postalcode);
-//        selectCountry(country);
-//        inputTelephone(telephone);
+    public void billingInformationCheckout(String firstname, String lastname, String emailaddress,
+                                          String address, String city, String postalcode,
+                                          String country, String telephone){
+        inputFirstName(firstname);
+        inputLastName(lastname);
+        inputEmailAddress(emailaddress);
+        inputAddress(address);
+        inputCity(city);
+        inputPostalCode(postalcode);
+        selectCountry(country);
+        inputTelephone(telephone);
     }
-    @Step
-    public void clickOnContinue(){billingInformationPage.clickOnContinue();}
+
+    @StepGroup
+    public void billingInformationCheckoutLogin(String firstname, String lastname,
+                                                String address, String city, String postalcode,
+                                                String country, String telephone){
+        inputFirstName(firstname);
+        inputLastName(lastname);
+        inputAddress(address);
+        inputCity(city);
+        inputPostalCode(postalcode);
+        selectCountry(country);
+        inputTelephone(telephone);
+    }
 
     @Step
     public void checkEmail(String expectedMessage){
         String email = billingInformationPage.checkEmail();
         Assert.assertTrue("The email is invalid!", expectedMessage.contentEquals(email));
     }
+    @Step
+    public void clickOnContinue(){billingInformationPage.clickOnContinue();}
 }

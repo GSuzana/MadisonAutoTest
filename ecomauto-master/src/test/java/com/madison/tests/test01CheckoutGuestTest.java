@@ -39,6 +39,7 @@ public class test01CheckoutGuestTest {
     @Test
     public void checkoutProcess() {
         TestData testData =  init.initTestData();
+
         checkoutSteps.navigateTo("http://qa2.madison.com/");
 
         checkoutSteps.clickOnProduct();
@@ -53,15 +54,12 @@ public class test01CheckoutGuestTest {
 
         checkoutSteps.clickOnContinueButton();
 
+        checkoutSteps.billingInformationCheckout(testData.getFirstName(), testData.getLastName(), testData.getEmailAddress(),
+                testData.getAddress(), testData.getCity(), testData.getPostalCode(), testData.getCountry(), testData.getTelephone());
 
-//         checkoutSteps.billingInformationCheckout(firstName, lastName, emailAddress,
-//                address, city, postalCode, country, telephone);
+        checkoutSteppp.checkEmail("Please enter a valid email address. For example johndoe@domain.com.");
 
-        checkoutSteps.billingInformationCheckout();
         checkoutSteps.clickOnContinue();
 
-
-        checkoutSteps.inputEmailAddress("test@gmail.com");
-        checkoutSteppp.checkEmail("Please enter a valid email address. For example johndoe@domain.com.\n");
     }
 }

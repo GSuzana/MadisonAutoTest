@@ -5,11 +5,11 @@ import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.yecht.Data;
 
 /**
  * Created by razvansidra on 7/26/2017.
  */
+
 public class BillingInformationPage extends PageObject {
 
     @FindBy(css = "[id=\"billing:firstname\"]")
@@ -42,27 +42,20 @@ public class BillingInformationPage extends PageObject {
     @FindBy(css = "#billing-address-select")
     private WebElement addressDropdown;
 
-    @FindBy(css = "#advice-validate-email-billing:email")
-            private WebElement checkEmail;
+ //   @FindBy(css = "#advice-validate-email-billing:email")
+    @FindBy(css = "#billing:email")
+    private WebElement checkEmail;
 
-    TestData data;
 
-    public void selectAddress(String word) {
-        addressDropdown.sendKeys(word);
-    }
+    public void selectAddress(String word) {addressDropdown.sendKeys(word);}
 
-    public void inputFirstName() {
-        //waitFor(firstName);
-        firstNameInput.sendKeys(data.getFirstName());
-    }
+    public void inputFirstName(String word) {firstNameInput.sendKeys(word);}
 
     public void inputLastName(String word) {
         lastNameInput.sendKeys(word);
     }
 
-    public void inputEmailAddress(String word) {
-        emailInput.sendKeys(word);
-    }
+    public void inputEmailAddress(String word) {emailInput.sendKeys(word);}
 
     public void inputAddress(String word) {
         addressInput.sendKeys(word);
@@ -87,10 +80,13 @@ public class BillingInformationPage extends PageObject {
     public void clickOnContinue() {continueBillingInformationButton.click();}
 
 
-
     public String checkEmail(){
-
+        element(checkEmail).waitUntilVisible();
         String message = checkEmail.getText();
         return message;
     }
+
+//    public void clearFields(){
+//        firstNameInput.clear();
+//    }
 }
