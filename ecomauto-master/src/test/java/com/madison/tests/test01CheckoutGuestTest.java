@@ -18,6 +18,7 @@ import org.openqa.selenium.WebDriver;
  */
 
 @RunWith(SerenityRunner.class)
+
 public class test01CheckoutGuestTest {
 
     @Before
@@ -60,7 +61,5 @@ public class test01CheckoutGuestTest {
         checkoutSteps.clickOnContinue();
 
         checkoutSteppp.checkEmail("Please enter a valid email address. For example johndoe@domain.com.");
-
-
     }
 }

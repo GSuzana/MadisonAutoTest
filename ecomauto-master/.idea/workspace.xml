@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" line="30" />
     <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" line="83" />
   </component>
   <component name="ChangeListManager">
@@ -17,23 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CheckoutSteps.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BillingInformationPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-87">
-              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            <state relative-caret-position="782">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,11 +29,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test04CheckoutDDT.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/Test04CheckoutDDT.java">
+      <file leaf-file-name="test04CheckoutDDT.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            <state relative-caret-position="510">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckoutSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,21 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/TestData.java">
+      <file leaf-file-name="test01CheckoutGuestTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="440">
+              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SetTestData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java">
+      <file leaf-file-name="test.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/CSV/test.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="51">
+              <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -113,11 +117,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/CheckoutMethodPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/TestData.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test03CheckoutLoginNewAddressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/Test04CheckoutDDT.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/CSV/test.csv" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java" />
       </list>
     </option>
   </component>
@@ -223,6 +229,112 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EcomAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomauto-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EcomAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomauto-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EcomAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomauto-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -255,33 +367,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test03CheckoutLoginNewAddressTest">
-    <configuration default="false" name="MigEmagTest.emagSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.emag.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EcomAutomation" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.emag.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.emag.tests.MigEmagTest" />
-      <option name="METHOD_NAME" value="emagSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.test04CheckoutDDT">
     <configuration default="false" name="test01CheckoutGuestTest.checkoutProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,7 +446,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="test03CheckoutLoginNewAddressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="test04CheckoutDDT.test04_Checkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.madison.tests.*" />
@@ -371,7 +457,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.madison.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test03CheckoutLoginNewAddressTest" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutDDT" />
+      <option name="METHOD_NAME" value="test04_Checkout" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="test04CheckoutDDT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.madison.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EcomAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madison.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutDDT" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -591,19 +703,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MigEmagTest.emagSearch" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT.test04_Checkout" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MigEmagTest.emagSearch" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT.test04_Checkout" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
       </list>
     </recent_temporary>
   </component>
@@ -621,39 +733,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 00m 28s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 24m 22s.xml">
+      <configuration name="test04CheckoutDDT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 01m 28s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 36m 33s.xml">
+      <configuration name="test04CheckoutDDT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 37m 53s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 39m 13s.xml">
+      <configuration name="test04CheckoutDDT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 39m 07s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 16h 56m 59s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 41m 53s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 01m 36s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 50m 29s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 09m 46s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.27 at 15h 52m 34s.xml">
-      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 20m 26s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.27 at 15h 55m 57s.xml">
-      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 22m 48s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test03CheckoutLoginNewAddressTest_checkoutLoginNewAddress - 2017.07.27 at 15h 06m 47s.xml">
-      <configuration name="test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 27m 46s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test03CheckoutLoginNewAddressTest_checkoutLoginNewAddress - 2017.07.27 at 15h 11m 48s.xml">
-      <configuration name="test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" configurationId="JUnit" />
+    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 35m 46s.xml">
+      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -670,7 +783,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21770833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19767442" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -875,16 +988,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test02CheckoutLoginSameAddressTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/emag/steps/EmagSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -901,28 +1004,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test02CheckoutLoginSameAddressTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/Test04CheckoutDDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        <state relative-caret-position="525">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,22 +1024,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        <state relative-caret-position="204">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/CSV/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+        <state relative-caret-position="364">
+          <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
           </folding>
         </state>
       </provider>
