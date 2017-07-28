@@ -38,7 +38,7 @@ public class test01CheckoutGuestTest {
     private SetTestData init = new SetTestData();
 
     @Test
-    public void checkoutProcess() {
+    public void checkoutGuestProcess() {
         TestData testData =  init.initTestData();
 
         checkoutSteps.navigateTo("http://qa2.madison.com/");

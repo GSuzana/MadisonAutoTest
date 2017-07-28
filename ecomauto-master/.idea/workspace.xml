@@ -2,7 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" line="30" />
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" line="83" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" line="91" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440dba2e-38d7-404b-b15b-4c6667724d18" name="Default" comment="" />
@@ -20,36 +20,28 @@
       <file leaf-file-name="BillingInformationPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="457">
+              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test04CheckoutDDT.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckoutSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1490#1491#0" expanded="true" />
+                <element signature="e#1535#1536#0" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1716#1717#0" expanded="true" />
+                <element signature="e#2199#2200#0" expanded="true" />
+                <element signature="e#2255#2256#0" expanded="true" />
+                <element signature="e#2568#2569#0" expanded="true" />
+                <element signature="e#2605#2606#0" expanded="true" />
+                <element signature="e#2644#2645#0" expanded="true" />
+                <element signature="e#2680#2681#0" expanded="true" />
+                <element signature="e#2716#2717#0" expanded="true" />
+                <element signature="e#2749#2750#0" expanded="true" />
+                <element signature="e#2791#2792#0" expanded="true" />
+                <element signature="e#2830#2831#0" expanded="true" />
+                <element signature="e#2871#2872#0" expanded="true" />
+                <element signature="e#2909#2910#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +50,8 @@
       <file leaf-file-name="test01CheckoutGuestTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="355">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,12 +59,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/CSV/test.csv">
+      <file leaf-file-name="CheckoutSteps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="491">
+              <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,14 +110,15 @@
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/CheckoutLoginNewAddressTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/CheckoutMethodPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/TestData.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test03CheckoutLoginNewAddressTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/Test04CheckoutDDT.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/CSV/test.csv" />
         <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/CSV/test.csv" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test03CheckoutLoginNewAddressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutGuestDDT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java" />
       </list>
     </option>
   </component>
@@ -367,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test04CheckoutDDT">
+  <component name="RunManager" selected="JUnit.test01CheckoutGuestTest">
     <configuration default="false" name="test01CheckoutGuestTest.checkoutProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -394,7 +389,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="test04CheckoutGuestDDT.test04_Checkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.madison.tests.*" />
@@ -405,59 +400,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.madison.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test02CheckoutLoginSameAddressTest" />
-      <option name="METHOD_NAME" value="checkoutLoginSameAddress" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.madison.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EcomAutomation" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.madison.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test03CheckoutLoginNewAddressTest" />
-      <option name="METHOD_NAME" value="checkoutLoginNewAddress" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="test04CheckoutDDT.test04_Checkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.madison.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EcomAutomation" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.madison.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutDDT" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutGuestDDT" />
       <option name="METHOD_NAME" value="test04_Checkout" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -472,7 +415,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="test04CheckoutDDT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="test04CheckoutGuestDDT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.madison.tests.*" />
@@ -483,7 +426,59 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.madison.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutDDT" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test04CheckoutGuestDDT" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="test03CheckoutLoginNewAddressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.madison.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EcomAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madison.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test03CheckoutLoginNewAddressTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="test01CheckoutGuestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.madison.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EcomAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madison.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.madison.tests.test01CheckoutGuestTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -704,18 +699,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT.test04_Checkout" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.test04CheckoutGuestDDT.test04_Checkout" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.test04CheckoutGuestDDT" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.test04CheckoutDDT.test04_Checkout" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest.checkoutLoginNewAddress" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.test02CheckoutLoginSameAddressTest.checkoutLoginSameAddress" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.test01CheckoutGuestTest.checkoutProcess" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.test03CheckoutLoginNewAddressTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.test04CheckoutGuestDDT" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.test04CheckoutGuestDDT.test04_Checkout" />
       </list>
     </recent_temporary>
   </component>
@@ -733,39 +728,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 24m 22s.xml">
+    <history-entry file="test01CheckoutGuestTest - 2017.07.28 at 10h 12m 26s.xml">
+      <configuration name="test01CheckoutGuestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01CheckoutGuestTest_checkoutProcess - 2017.07.28 at 10h 07m 30s.xml">
+      <configuration name="test01CheckoutGuestTest.checkoutProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 17m 31s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 38m 12s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 40m 18s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 56m 39s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 58m 17s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 09h 59m 29s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test03CheckoutLoginNewAddressTest - 2017.07.28 at 10h 06m 40s.xml">
+      <configuration name="test03CheckoutLoginNewAddressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test04CheckoutDDT - 2017.07.28 at 09h 16m 27s.xml">
       <configuration name="test04CheckoutDDT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 36m 33s.xml">
-      <configuration name="test04CheckoutDDT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT - 2017.07.27 at 17h 39m 13s.xml">
-      <configuration name="test04CheckoutDDT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 16h 56m 59s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 01m 36s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 09m 46s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 20m 26s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 22m 48s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 27m 46s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test04CheckoutDDT_test04_Checkout - 2017.07.27 at 17h 35m 46s.xml">
-      <configuration name="test04CheckoutDDT.test04_Checkout" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -927,7 +922,7 @@
         <state relative-caret-position="221">
           <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1004,26 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test02CheckoutLoginSameAddressTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test03CheckoutLoginNewAddressTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/SetTestData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1032,52 +1007,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/CSV/test.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutGuestDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/CSV/test.csv">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test03CheckoutLoginNewAddressTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        <state relative-caret-position="423">
+          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test02CheckoutLoginSameAddressTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="42" />
+        <state relative-caret-position="408">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/pages/BillingInformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#2199#2200#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2568#2569#0" expanded="true" />
+            <element signature="e#2605#2606#0" expanded="true" />
+            <element signature="e#2644#2645#0" expanded="true" />
+            <element signature="e#2680#2681#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2749#2750#0" expanded="true" />
+            <element signature="e#2791#2792#0" expanded="true" />
+            <element signature="e#2830#2831#0" expanded="true" />
+            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2909#2910#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test01CheckoutGuestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="355">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/tests/test04CheckoutDDT.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/madison/steps/CheckoutSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        <state relative-caret-position="491">
+          <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
           </folding>
         </state>
       </provider>

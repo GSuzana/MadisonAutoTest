@@ -46,15 +46,21 @@ public class BillingInformationPage extends PageObject {
     private WebElement checkEmail;
 
 
-    public void selectAddress(String word) {addressDropdown.sendKeys(word);}
+    public void selectAddress(String word) {
+        addressDropdown.sendKeys(word);
+    }
 
-    public void inputFirstName(String word) {firstNameInput.sendKeys(word);}
+    public void inputFirstName(String word) {
+        firstNameInput.sendKeys(word);
+    }
 
     public void inputLastName(String word) {
         lastNameInput.sendKeys(word);
     }
 
-    public void inputEmailAddress(String word) {emailInput.sendKeys(word);}
+    public void inputEmailAddress(String word) {
+        emailInput.sendKeys(word);
+    }
 
     public void inputAddress(String word) {
         addressInput.sendKeys(word);
@@ -76,16 +82,39 @@ public class BillingInformationPage extends PageObject {
         telephoneInput.sendKeys(word);
     }
 
-    public void clickOnContinue() {continueBillingInformationButton.click();}
+    public void clickOnContinue() {
+        continueBillingInformationButton.click();
+    }
 
 
-    public String checkEmail(){
+    public String checkEmail() {
         element(checkEmail).waitUntilVisible();
         String message = checkEmail.getText();
         return message;
     }
 
-//    public void clearFields(){
-//        firstNameInput.clear();
-//    }
+    public void clearInputFirstName() {
+        firstNameInput.clear();
+//        telephoneInput.clear();
+    }
+
+    public void clearInputLastName() {
+        lastNameInput.clear();
+    }
+
+    public void clearInputAddress() {
+        addressInput.clear();
+    }
+
+    public void clearInputCity() {
+        cityInput.clear();
+    }
+
+    public void clearInputPostalCode() {
+        postalCodeInput.clear();
+    }
+
+    public void clearInputTelephone() {
+        telephoneInput.clear();
+    }
 }

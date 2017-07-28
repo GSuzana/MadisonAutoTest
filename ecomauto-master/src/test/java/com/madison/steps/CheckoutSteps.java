@@ -109,4 +109,14 @@ public class CheckoutSteps {
         String email = billingInformationPage.checkEmail();
         Assert.assertFalse("The email is invalid!", expectedMessage.contentEquals(email));
     }
+
+    @StepGroup
+    public void clearFields(){
+        billingInformationPage.clearInputFirstName();
+        billingInformationPage.clearInputLastName();
+        billingInformationPage.clearInputAddress();
+        billingInformationPage.clearInputCity();
+        billingInformationPage.clearInputPostalCode();
+        billingInformationPage.clearInputTelephone();
+    }
 }

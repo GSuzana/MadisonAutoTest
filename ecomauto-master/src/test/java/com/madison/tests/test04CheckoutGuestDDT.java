@@ -22,7 +22,7 @@ import org.openqa.selenium.WebDriver;
 //@Story(Application.class)
 @RunWith(SerenityParameterizedRunner.class)
 @UseTestDataFrom(value = "CSV/test.csv")
-public class test04CheckoutDDT {
+public class test04CheckoutGuestDDT {
 
     @Before
     public void maxiPage() {
@@ -39,7 +39,7 @@ public class test04CheckoutDDT {
     String firstname, lastname, email, address, city, country, postalCode, telephone;
 
     @Test
-    public void test04_Checkout() {
+    public void test04_CheckoutGuestDDT() {
         checkoutSteps.navigateTo("http://qa2.madison.com/");
         checkoutSteps.clickOnProduct();
         checkoutSteps.clickOnColor();

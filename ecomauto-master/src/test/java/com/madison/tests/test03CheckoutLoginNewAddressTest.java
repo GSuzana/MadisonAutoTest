@@ -30,15 +30,6 @@ public class test03CheckoutLoginNewAddressTest {
 
     String selectAddress = "New Address";
 
-    String firstName = "test";
-    String lastName = "test";
-    String emailAddress = "test@test.com";
-    String address = "test";
-    String city = "test";
-    String postalCode = "123456";
-    String telephone = "1234567899";
-    String country = "test";
-
 
     @Steps
     public CheckoutSteps checkoutSteps;
@@ -65,6 +56,8 @@ public class test03CheckoutLoginNewAddressTest {
         checkoutSteps.loginFlow(username, password);
 
         checkoutSteps.selectAddress(selectAddress);
+
+        checkoutSteps.clearFields();
 
         checkoutSteps.billingInformationCheckoutLogin(testData.getFirstName(), testData.getLastName(),
                 testData.getAddress(), testData.getCity(), testData.getPostalCode(), testData.getCountry(), testData.getTelephone());
